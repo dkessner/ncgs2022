@@ -89,8 +89,8 @@ Emphasis on STEM activities that are creative, collaborative, and interdisciplin
 * Engineering (Dr. Lee Mirsky)
 
 <br/>
-<img src="pix/stem_gallery_1.jpg" width="49%">
-<img src="pix/stem_gallery_2.jpg" width="49%">
+<img src="pix/robotics_celebration_2022.jpg" width="49%" style="padding-right: 30px"> 
+<img src="pix/2022-05-20-history-project.png" width="38%" style="padding-left: 30px">
 ---
 
 ## Free & Open Source Software
