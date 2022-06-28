@@ -191,6 +191,8 @@ subjects.
 
 Example: Social Security baby names  
 
+(2021: Olivia, Emma, Charlotte, Amelia, Ava, Sophia)
+
 <br/>
 
 <a href="https://data.lacity.org/" target="_blank">![](logos/la_open_data_logo_50.png)</a>
