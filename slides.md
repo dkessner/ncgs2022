@@ -26,7 +26,7 @@ http://stem.marlborough.org
 
 <a href="https://www.ncgs.org/professional-development/global-forum-on-girls-education-iii/" target="_blank">NCGS Global Forum on Girls' Education III</a>  
 _Boston, MA_  
-_Tuesday, June 28, 2021_  
+_Tuesday, June 28, 2022_  
 
 <br/>
 ]
